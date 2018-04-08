@@ -8,6 +8,6 @@
 
 [https://blog.datarepo.cn/anniversary/index.html](https://blog.datarepo.cn/anniversary/index.html)
 
-![](https://raw.githubusercontent.com/traceflight/anniversary-h5/master/qrcode.png)
+![qrcode](https://raw.githubusercontent.com/traceflight/anniversary-h5/master/qrcode.png)
 
 # 
