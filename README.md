@@ -62,7 +62,7 @@ $(document).ready(function() {
 
 # 使用
 
-最简单的使用方法是：替换`index.html`中的文字和img文件夹内的图片。
+最简单的使用方法是：替换`index.html`中的文字和`img`文件夹内的图片。
 
 也可以在此基础上，自定义样式和动画。
 
