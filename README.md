@@ -62,7 +62,16 @@ $(document).ready(function() {
 
 # 使用
 
-最简单的使用方法是：替换`index.html`中的文字和`img`文件夹内的图片。
+最简单的使用方法是，替换`index.html`中的文字和`img`文件夹内的图片，也可以在此基础上，自定义样式和动画。
 
-也可以在此基础上，自定义样式和动画。
+使用docker快速运行：
 
+``` shell
+$ git clone https://github.com/traceflight/anniversary-h5.git
+$ docker run --name h5page -d \
+  -p 8080:80 \
+  -v `pwd`/anniversary-h5:/usr/share/nginx/html:ro \
+  nginx
+```
+
+然后访问 `http://localhost:8080/index.html` 或 `http://host-ip:8080/index.html`即可。
