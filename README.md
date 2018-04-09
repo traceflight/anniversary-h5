@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 ### 音符图标
 
-本文参考项目[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)中的方法添加音符图标，在css文件中导入自定义字体`my-custom-icon-font`并在相应位置填入音符对应的编码。
+参考项目[wechat-h5-boilerplate](https://github.com/panteng/wechat-h5-boilerplate)中的方法添加音符图标，在css文件中导入自定义字体`my-custom-icon-font`并在相应位置填入音符对应的编码。
 
 ### 自动播放
 
